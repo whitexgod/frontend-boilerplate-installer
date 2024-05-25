@@ -13,7 +13,7 @@ An installer for my [Frontend-Skeleton-Setup](https://github.com/whitexgod/front
 To install the `frontend-boilerplate-installer` package globally, use:
 
 ```
-npm install -g frontend-boilerplate-installer
+npm install -g vite-boilerplate-installer
 ```
 
 ## Usage
