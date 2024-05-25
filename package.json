@@ -1,5 +1,5 @@
 {
-  "name": "vite-boilerplate-installer",
+  "name": "frontend-boilerplate-installer",
   "version": "1.1.0",
   "main": "index.js",
   "description": "An installer for my Frontend-Skeleton-Setup project",
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/whitexgod/frontend-boilerplate-installer.git"
   },
   "bin": {
-    "vite-boilerplate-installer": "index.js"
+    "frontend-boilerplate-installer": "index.js"
   },
   "keywords": [],
   "author": "Tuhin Mukherjee",
