@@ -13,16 +13,16 @@ An installer for my [Frontend-Skeleton-Setup](https://github.com/whitexgod/front
 To install the `frontend-boilerplate-installer` package globally, use:
 
 ```
-npm install -g vite-frontend-boilerplate-installer
+npm install -g boilerplate-installer-vite
 ```
 
 ## Usage
 
-After installing the package, you can use the command vite-frontend-boilerplate-installer to clone the repository into the current working directory:
+After installing the package, you can use the command boilerplate-installer-vite to clone the repository into the current working directory:
 
 ```
-npm install vite-frontend-boilerplate-installer
-vite-frontend-boilerplate-installer
+npm install -g boilerplate-installer-vite
+boilerplate-installer-vite
 ```
 This will clone the Frontend-Skeleton-Setup repository and set up your project.
 
