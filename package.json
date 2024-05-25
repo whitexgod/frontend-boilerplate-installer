@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/whitexgod/frontend-boilerplate-installer.git"
   },
   "bin": {
     "frontend-boilerplate-installer": "index.js"
