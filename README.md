@@ -26,9 +26,6 @@ my-boilerplate-installer
 ```
 This will clone the Frontend-Skeleton-Setup repository and set up your project.
 
-## Repository
-The source code for this package is available on GitHub: https://github.com/whitexgod/frontend-boilerplate-installer.
-
 ## Author
 Tuhin Mukherjee
 
