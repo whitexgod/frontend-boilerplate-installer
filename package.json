@@ -1,0 +1,22 @@
+{
+  "name": "frontend-boilerplate-installer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "An installer for my Frontend-Skeleton-Setup project",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bin": {
+    "frontend-boilerplate-installer": "index.js"
+  },
+  "keywords": [],
+  "author": "Tuhin Mukherjee",
+  "license": "ISC",
+  "dependencies": {
+    "simple-git": "^3.24.0"
+  }
+}
